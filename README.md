@@ -1,0 +1,2 @@
+# Aimate
+ capstone_project
